@@ -1,0 +1,728 @@
+TCustomDropDownList
+v7
+r0
+t315246037.698537
+cCheck dependencies
+cProcessInfoPlistFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/Info.plist" CustomDropDownList-Info.plist
+cCompileXIB "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/CustomDropDownList.app/but-bg-no-active.png Images/but-bg-no-active.png
+cCpResource build/Debug-iphonesimulator/CustomDropDownList.app/but-bg-active.png Images/but-bg-active.png
+cCpResource build/Debug-iphonesimulator/CustomDropDownList.app/dropdown-item-bg-hover.png Images/dropdown-item-bg-hover.png
+cCpResource build/Debug-iphonesimulator/CustomDropDownList.app/dropdown-item-bg.png Images/dropdown-item-bg.png
+cCpResource build/Debug-iphonesimulator/CustomDropDownList.app/open-dropdown-bg-bottom.png Images/open-dropdown-bg-bottom.png
+cCpResource build/Debug-iphonesimulator/CustomDropDownList.app/open-dropdown-bg-inner.png Images/open-dropdown-bg-inner.png
+cCpResource build/Debug-iphonesimulator/CustomDropDownList.app/open-dropdown-bg-top.png Images/open-dropdown-bg-top.png
+cCpResource build/Debug-iphonesimulator/CustomDropDownList.app/icon.png Images/icon.png
+cCpResource build/Debug-iphonesimulator/CustomDropDownList.app/logo.png Images/logo.png
+cProcessPCH /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch.gch CustomDropDownList_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/main.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/CustomDropDownListAppDelegate.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/CustomDropDownListAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/Configuration.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Configuration.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/DropDownList.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/DropDownList.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/TransparentOverlay.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/TransparentOverlay+Private.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay+Private.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/BaseDataObject.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseDataObject.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/MainViewController.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/BaseItemObject.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseItemObject.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/CustomDropDownList" normal i386
+cGenerateDSYMFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app.dSYM" "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/CustomDropDownList"
+cTouch "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseCellObject.h
+c000000004C99BF72000000000000023F
+t1285144434
+s575
+i<Foundation/Foundation.h>
+i"BaseDataObject.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseCellObject.m
+c000000004C99BF5E0000000000000245
+t1285144414
+s581
+i"BaseCellObject.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseDataObject.h
+c000000004C99BF3B000000000000021A
+t1285144379
+s538
+i<Foundation/Foundation.h>
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseDataObject.m
+c000000004D10D78F000000000000025B
+t1292949391
+s603
+i"BaseDataObject.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseItemObject.h
+c000000004D10D64B0000000000000223
+t1292949067
+s547
+i<Foundation/Foundation.h>
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseItemObject.m
+c000000004D10D76A00000000000001AD
+t1292949354
+s429
+i"BaseItemObject.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Configuration.h
+c000000004D10D8BD0000000000000A22
+t1292949693
+s2594
+i<Foundation/Foundation.h>
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Configuration.m
+c000000004D10E33E000000000000048C
+t1292952382
+s1164
+i"Configuration.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/CustomDropDownListAppDelegate.h
+c000000004D108936000000000000016B
+t1292929334
+s363
+i<UIKit/UIKit.h>
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/CustomDropDownListAppDelegate.m
+c000000004D109859000000000000084B
+t1292933209
+s2123
+i"CustomDropDownListAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/DOBaseDropDownCellObject.h
+c000000004CE120BA00000000000004B6
+t1289822394
+s1206
+i<Foundation/Foundation.h>
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/DOBaseDropDownCellObject.m
+c000000004CE120BA0000000000000271
+t1289822394
+s625
+i"DOBaseDropDownCellObject.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/DropDownList.h
+c000000004D1A05AE0000000000000D45
+t1293551022
+s3397
+i<UIKit/UIKit.h>
+i"TransparentOverlay.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/DropDownList.m
+c000000004D1A05EA0000000000001782
+t1293551082
+s6018
+i"DropDownList.h"
+i"TransparentOverlay+Private.h"
+i"BaseItemObject.h"
+i"Configuration.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/MainViewController.h
+c000000004D12212C00000000000001F1
+t1293033772
+s497
+i<UIKit/UIKit.h>
+i"DropDownList.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/MainViewController.m
+c000000004D1A07150000000000001420
+t1293551381
+s5152
+i"MainViewController.h"
+i"DropDownList.h"
+i"Configuration.h"
+i"BaseDataObject.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/RotatingViewController.h
+c000000004D19FC8400000000000000FE
+t1293548676
+s254
+i<UIKit/UIKit.h>
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/RotatingViewController.m
+c000000004D1A04B400000000000005F3
+t1293550772
+s1523
+i"RotatingViewController.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Settings.h
+c000000004D108FEB000000000000036A
+t1292931051
+s874
+i<Foundation/Foundation.h>
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Settings.m
+c000000004D10985A0000000000000819
+t1292933210
+s2073
+i"Settings.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay+Private.h
+c000000004D10D52500000000000001BA
+t1292948773
+s442
+i<Foundation/Foundation.h>
+i"TransparentOverlay.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay+Private.m
+c000000004D12203B0000000000000FCA
+t1293033531
+s4042
+i"TransparentOverlay+Private.h"
+i"Configuration.h"
+i"BaseDataObject.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay.h
+c000000004D19FB7A000000000000092C
+t1293548410
+s2348
+i<UIKit/UIKit.h>
+i"BaseItemObject.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay.m
+c000000004D1A0D9000000000000011B9
+t1293553040
+s4537
+i"TransparentOverlay.h"
+i"TransparentOverlay+Private.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/untitled.h
+c000000004D19FC6700000000000000E2
+t1293548647
+s226
+i<UIKit/UIKit.h>
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/untitled.m
+c000000004D19FC67000000000000058B
+t1293548647
+s1419
+i"untitled.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/CustomDropDownList_Prefix.pch
+c000000004D10893600000000000000CD
+t1292929334
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/but-bg-active.png
+c000000004C9B1D18000000000000039A
+t1285233944
+s922
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/but-bg-no-active.png
+c000000004C9B27540000000000000352
+t1285236564
+s850
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/dropdown-item-bg-hover.png
+c000000004C9B16640000000000000103
+t1285232228
+s259
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/dropdown-item-bg.png
+c000000004C9B161800000000000002F7
+t1285232152
+s759
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/icon.png
+c000000004D1A0C2000000000000011C4
+t1293552672
+s4548
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/logo.png
+c000000004D1A0C2000000000000041E1
+t1293552672
+s16865
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/open-dropdown-bg-bottom.png
+c000000004CAEDE1D0000000000000C19
+t1286528541
+s3097
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/open-dropdown-bg-inner.png
+c000000004CADBD4A0000000000000AFE
+t1286454602
+s2814
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/open-dropdown-bg-top.png
+c000000004CADBDCD0000000000000BDF
+t1286454733
+s3039
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/MainWindow.xib
+c000000004D1089360000000000003EA4
+t1292929334
+s16036
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/BaseCellObject.o
+t1292933211
+s11268
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/BaseDataObject.o
+t1293553237
+s12072
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/BaseItemObject.o
+t1293553237
+s9860
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/Configuration.o
+t1293553237
+s18628
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/CustomDropDownList.LinkFileList
+c000000004D1A0E5200000000000006C4
+t1293553234
+s1732
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/CustomDropDownListAppDelegate.o
+t1293553237
+s51516
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/DOBaseDropDownCellObject.o
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/DropDownList.o
+t1293553237
+s73464
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/MainViewController.o
+t1293553237
+s51560
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/RotatingViewController.o
+t1293550772
+s38928
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/Settings.o
+t1292933211
+s19552
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/TransparentOverlay+Private.o
+t1293553237
+s51760
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/TransparentOverlay.o
+t1293553237
+s74324
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/main.o
+t1293553237
+s6376
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/untitled.o
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app
+t1293553237
+s510
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app.dSYM
+t1293553237
+s102
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/CustomDropDownList
+t1293553237
+s80876
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/Info.plist
+t1293553234
+s848
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/MainWindow.nib
+t1293553235
+s995
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/PkgInfo
+t1293553234
+s8
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/but-bg-active.png
+t1293553234
+s922
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/but-bg-no-active.png
+t1293553234
+s850
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/dropdown-item-bg-hover.png
+t1293553234
+s259
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/dropdown-item-bg.png
+t1293553234
+s759
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/icon.png
+t1293553234
+s4548
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/logo.png
+t1293553234
+s16865
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/open-dropdown-bg-bottom.png
+t1293553234
+s3097
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/open-dropdown-bg-inner.png
+t1293553234
+s2814
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/open-dropdown-bg-top.png
+t1293553234
+s3039
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/main.m
+c000000004D1089360000000000000177
+t1292929334
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch.gch
+t1293553237
+s15453392
+
+NCustomDropDownList-Info.plist
+c000000004D10893600000000000004D6
+t1292929334
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315246034#315246034#0(0"0(0#1#0"8618339584#0"0#
+
+CCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/BaseCellObject.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseCellObject.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s314626011.382302
+e314626011.459208
+r1
+xCompileC
+xbuild/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/BaseCellObject.o
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseCellObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseCellObject.m314626011#314626011#0(0"0(0#0#99"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseCellObject.m8624145152#2580"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-generated-files.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-own-target-headers.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-all-target-headers.hmap" -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-project-headers.hmap" "-F/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/include" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources/i386" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources" -include /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch -c "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseCellObject.m" -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/BaseCellObject.o"0#
+
+CCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/BaseDataObject.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseDataObject.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315246037.415685
+e315246037.517111
+r1
+xCompileC
+xbuild/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/BaseDataObject.o
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseDataObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseDataObject.m315246037#315246037#0(0"0(0#0#99"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseDataObject.m8617297088#2580"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-generated-files.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-own-target-headers.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-all-target-headers.hmap" -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-project-headers.hmap" "-F/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/include" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources/i386" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources" -include /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch -c "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseDataObject.m" -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/BaseDataObject.o"0#
+
+CCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/BaseItemObject.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseItemObject.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315246037.568926
+e315246037.633687
+r1
+xCompileC
+xbuild/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/BaseItemObject.o
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseItemObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseItemObject.m315246037#315246037#0(0"0(0#0#99"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseItemObject.m8618783552#2580"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-generated-files.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-own-target-headers.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-all-target-headers.hmap" -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-project-headers.hmap" "-F/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/include" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources/i386" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources" -include /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch -c "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/BaseItemObject.m" -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/BaseItemObject.o"0#
+
+CCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/Configuration.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Configuration.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315246037.207116
+e315246037.289951
+r1
+xCompileC
+xbuild/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/Configuration.o
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Configuration.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Configuration.m315246037#315246037#0(0"0(0#0#98"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Configuration.m8613000000#2578"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-generated-files.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-own-target-headers.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-all-target-headers.hmap" -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-project-headers.hmap" "-F/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/include" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources/i386" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources" -include /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch -c "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Configuration.m" -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/Configuration.o"0#
+
+CCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/CustomDropDownListAppDelegate.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/CustomDropDownListAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315246037.149792
+e315246037.241554
+r1
+xCompileC
+xbuild/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/CustomDropDownListAppDelegate.o
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/CustomDropDownListAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@122"Compile /Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/CustomDropDownListAppDelegate.m315246037#315246037#0(0"0(0#0#114"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/CustomDropDownListAppDelegate.m8616003872#2610"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-generated-files.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-own-target-headers.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-all-target-headers.hmap" -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-project-headers.hmap" "-F/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/include" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources/i386" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources" -include /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch -c "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/CustomDropDownListAppDelegate.m" -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/CustomDropDownListAppDelegate.o"0#
+
+CCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/DOBaseDropDownCellObject.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/DOBaseDropDownCellObject.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/DropDownList.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/DropDownList.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315246037.241668
+e315246037.412330
+r1
+xCompileC
+xbuild/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/DropDownList.o
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/DropDownList.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/DropDownList.m315246037#315246037#0(0"0(0#0#97"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/DropDownList.m8610463328#2576"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-generated-files.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-own-target-headers.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-all-target-headers.hmap" -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-project-headers.hmap" "-F/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/include" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources/i386" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources" -include /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch -c "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/DropDownList.m" -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/DropDownList.o"0#
+
+CCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/MainViewController.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315246037.517218
+e315246037.612730
+r1
+xCompileC
+xbuild/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/MainViewController.o
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/MainViewController.m315246037#315246037#0(0"0(0#0#103"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/MainViewController.m8620325664#2588"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-generated-files.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-own-target-headers.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-all-target-headers.hmap" -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-project-headers.hmap" "-F/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/include" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources/i386" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources" -include /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch -c "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/MainViewController.m" -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/MainViewController.o"0#
+
+CCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/RotatingViewController.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/RotatingViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315243572.666517
+e315243572.877314
+r1
+xCompileC
+xbuild/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/RotatingViewController.o
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/RotatingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/RotatingViewController.m315243572#315243572#0(0"0(0#0#107"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/RotatingViewController.m8604596960#2596"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-generated-files.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-own-target-headers.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-all-target-headers.hmap" -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-project-headers.hmap" "-F/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/include" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources/i386" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources" -include /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch -c "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/RotatingViewController.m" -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/RotatingViewController.o"0#
+
+CCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/Settings.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Settings.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s314626010.868392
+e314626011.309023
+r1
+xCompileC
+xbuild/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/Settings.o
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Settings.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Settings.m314626010#314626011#0(0"0(0#0#93"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Settings.m8618767072#2568"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-generated-files.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-own-target-headers.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-all-target-headers.hmap" -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-project-headers.hmap" "-F/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/include" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources/i386" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources" -include /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch -c "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Settings.m" -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/Settings.o"0#
+
+CCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/TransparentOverlay+Private.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay+Private.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315246037.412438
+e315246037.568816
+r1
+xCompileC
+xbuild/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/TransparentOverlay+Private.o
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay+Private.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@119"Compile /Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay+Private.m315246037#315246037#0(0"0(0#0#111"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay+Private.m8617998912#2604"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-generated-files.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-own-target-headers.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-all-target-headers.hmap" -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-project-headers.hmap" "-F/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/include" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources/i386" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources" -include /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch -c "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay+Private.m" -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/TransparentOverlay+Private.o"0#
+
+CCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/TransparentOverlay.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315246037.290056
+e315246037.415577
+r1
+xCompileC
+xbuild/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/TransparentOverlay.o
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay.m315246037#315246037#0(0"0(0#0#103"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay.m8618951520#2588"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-generated-files.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-own-target-headers.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-all-target-headers.hmap" -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-project-headers.hmap" "-F/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/include" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources/i386" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources" -include /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch -c "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/TransparentOverlay.m" -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/TransparentOverlay.o"0#
+
+CCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/main.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s315246037.148346
+e315246037.207007
+r1
+xCompileC
+xbuild/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/main.o
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/main.m315246037#315246037#0(0"0(0#0#81"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/main.m8619339584#2552"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-generated-files.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-own-target-headers.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-all-target-headers.hmap" -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-project-headers.hmap" "-F/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/include" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources/i386" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources" -include /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch -c "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/main.m" -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/untitled.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/untitled.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/MainWindow.xib"
+s315246034.942058
+e315246036.018586
+r1
+xCompileXIB
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib315246034#315246036#0(0"0(0#0#89"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/MainWindow.xib8618831904#695"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/MainWindow.nib" "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/CustomDropDownList.app/but-bg-active.png Images/but-bg-active.png
+s315246034.943401
+e315246034.985396
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomDropDownList.app/but-bg-active.png
+xImages/but-bg-active.png
+lSLF07#2@29"Copy Images/but-bg-active.png315246034#315246034#0(0"0(0#0#99"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/but-bg-active.png8618295360#607"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/but-bg-active.png" "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app"0#
+
+CCpResource build/Debug-iphonesimulator/CustomDropDownList.app/but-bg-no-active.png Images/but-bg-no-active.png
+s315246034.942792
+e315246034.997937
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomDropDownList.app/but-bg-no-active.png
+xImages/but-bg-no-active.png
+lSLF07#2@32"Copy Images/but-bg-no-active.png315246034#315246034#0(0"0(0#0#102"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/but-bg-no-active.png8618474688#610"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/but-bg-no-active.png" "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app"0#
+
+CCpResource build/Debug-iphonesimulator/CustomDropDownList.app/dropdown-item-bg-hover.png Images/dropdown-item-bg-hover.png
+s315246034.944007
+e315246034.989076
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomDropDownList.app/dropdown-item-bg-hover.png
+xImages/dropdown-item-bg-hover.png
+lSLF07#2@38"Copy Images/dropdown-item-bg-hover.png315246034#315246034#0(0"0(0#0#108"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/dropdown-item-bg-hover.png8618010912#616"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/dropdown-item-bg-hover.png" "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app"0#
+
+CCpResource build/Debug-iphonesimulator/CustomDropDownList.app/dropdown-item-bg.png Images/dropdown-item-bg.png
+s315246034.944630
+e315246034.976672
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomDropDownList.app/dropdown-item-bg.png
+xImages/dropdown-item-bg.png
+lSLF07#2@32"Copy Images/dropdown-item-bg.png315246034#315246034#0(0"0(0#0#102"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/dropdown-item-bg.png8617948960#610"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/dropdown-item-bg.png" "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app"0#
+
+CCpResource build/Debug-iphonesimulator/CustomDropDownList.app/icon.png Images/icon.png
+s315246034.948836
+e315246034.959768
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomDropDownList.app/icon.png
+xImages/icon.png
+lSLF07#2@20"Copy Images/icon.png315246034#315246034#0(0"0(0#0#90"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/icon.png8616307680#598"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/icon.png" "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app"0#
+
+CCpResource build/Debug-iphonesimulator/CustomDropDownList.app/logo.png Images/logo.png
+s315246034.954811
+e315246034.964919
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomDropDownList.app/logo.png
+xImages/logo.png
+lSLF07#2@20"Copy Images/logo.png315246034#315246034#0(0"0(0#0#90"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/logo.png8615378784#598"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/logo.png" "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app"0#
+
+CCpResource build/Debug-iphonesimulator/CustomDropDownList.app/open-dropdown-bg-bottom.png Images/open-dropdown-bg-bottom.png
+s315246034.945254
+e315246034.974072
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomDropDownList.app/open-dropdown-bg-bottom.png
+xImages/open-dropdown-bg-bottom.png
+lSLF07#2@39"Copy Images/open-dropdown-bg-bottom.png315246034#315246034#0(0"0(0#0#109"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/open-dropdown-bg-bottom.png8617483424#617"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/open-dropdown-bg-bottom.png" "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app"0#
+
+CCpResource build/Debug-iphonesimulator/CustomDropDownList.app/open-dropdown-bg-inner.png Images/open-dropdown-bg-inner.png
+s315246034.945914
+e315246034.981715
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomDropDownList.app/open-dropdown-bg-inner.png
+xImages/open-dropdown-bg-inner.png
+lSLF07#2@38"Copy Images/open-dropdown-bg-inner.png315246034#315246034#0(0"0(0#0#108"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/open-dropdown-bg-inner.png8617342048#616"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/open-dropdown-bg-inner.png" "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app"0#
+
+CCpResource build/Debug-iphonesimulator/CustomDropDownList.app/open-dropdown-bg-top.png Images/open-dropdown-bg-top.png
+s315246034.946524
+e315246034.965789
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CustomDropDownList.app/open-dropdown-bg-top.png
+xImages/open-dropdown-bg-top.png
+lSLF07#2@36"Copy Images/open-dropdown-bg-top.png315246034#315246034#0(0"0(0#0#106"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/open-dropdown-bg-top.png8617192224#614"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/open-dropdown-bg-top.png" "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app"0#
+
+CGenerateDSYMFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app.dSYM" "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/CustomDropDownList"
+s315246037.669044
+e315246037.695189
+r1
+xGenerateDSYMFile
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app.dSYM
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/CustomDropDownList
+lSLF07#2@142"GenerateDSYMFile build/Debug-iphonesimulator/CustomDropDownList.app.dSYM build/Debug-iphonesimulator/CustomDropDownList.app/CustomDropDownList315246037#315246037#0(0"0(0#0#144"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/CustomDropDownList8611233920#530"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/CustomDropDownList" -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app.dSYM"0#
+
+CLd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/CustomDropDownList" normal i386
+s315246037.633787
+e315246037.668939
+r1
+xLd
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/CustomDropDownList
+xnormal
+xi386
+lSLF07#2@149"Link /Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/CustomDropDownList315246037#315246037#0(0"0(0#0#0"8617465568#1145"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" "-F/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" -filelist "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/Objects-normal/i386/CustomDropDownList.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/CustomDropDownList"0#
+
+CProcessInfoPlistFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/Info.plist" CustomDropDownList-Info.plist
+s315246034.874456
+e315246034.941963
+r1
+xProcessInfoPlistFile
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/Info.plist
+xCustomDropDownList-Info.plist
+lSLF07#2@37"Process CustomDropDownList-Info.plist315246034#315246034#0(0"0(0#0#104"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/CustomDropDownList-Info.plist8619968544#626"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CustomDropDownList-Info.plist -genpkginfo "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app/Info.plist"0#
+
+CProcessPCH /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch.gch CustomDropDownList_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s315246036.018717
+e315246037.148101
+r1
+xProcessPCH
+x/var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch.gch
+xCustomDropDownList_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@40"Precompile CustomDropDownList_Prefix.pch315246036#315246037#0(0"0(0#0#104"/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/CustomDropDownList_Prefix.pch8619344416#2395"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-generated-files.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-own-target-headers.hmap" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-all-target-headers.hmap" -iquote "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/CustomDropDownList-project-headers.hmap" "-F/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/include" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources/i386" "-I/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphonesimulator/CustomDropDownList.build/DerivedSources" -c "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/CustomDropDownList_Prefix.pch" -o /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-aiuwjcpoolznoieocgujnydyhddq/CustomDropDownList_Prefix.pch.gch0#
+
+CTouch "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app"
+s315246037.695282
+e315246037.698494
+r1
+xTouch
+x/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app
+lSLF07#2@131"Touch /Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app315246037#315246037#0(0"0(0#0#0"8615343936#365"    cd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphonesimulator/CustomDropDownList.app"0#
+

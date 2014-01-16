@@ -1,0 +1,362 @@
+TCustomDropDownList
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/CustomDropDownListAppDelegate.h
+c000000004D108936000000000000016B
+t1292929334
+s363
+i<UIKit/UIKit.h>
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/CustomDropDownListAppDelegate.m
+c000000004D10893600000000000006DE
+t1292929334
+s1758
+i"CustomDropDownListAppDelegate.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Settings.h
+c000000004D108D3C00000000000000E4
+t1292930364
+s228
+i<Foundation/Foundation.h>
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Settings.m
+c000000004D108D3C00000000000000CC
+t1292930364
+s204
+i"Settings.h"
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/CustomDropDownList_Prefix.pch
+c000000004D10893600000000000000CD
+t1292929334
+s205
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/but-bg-active.png
+c000000004C9B1D18000000000000039A
+t1285233944
+s922
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/but-bg-no-active.png
+c000000004C9B27540000000000000352
+t1285236564
+s850
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/but-bigger-bg-no-active.png
+c000000004C9B27540000000000000352
+t1285236564
+s850
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/but-bigger-bg.png
+c000000004C9B1D18000000000000039A
+t1285233944
+s922
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/dropdown-item-bg-hover.png
+c000000004C9B16640000000000000103
+t1285232228
+s259
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/dropdown-item-bg.png
+c000000004C9B161800000000000002F7
+t1285232152
+s759
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/icon.png
+c000000004C9B16980000000000000E39
+t1285232280
+s3641
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/icon1.png
+c000000004C9B16980000000000000E39
+t1285232280
+s3641
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/open-dropdown-bg-bottom.png
+c000000004CAEDE1D0000000000000C19
+t1286528541
+s3097
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/open-dropdown-bg-inner.png
+c000000004CADBD4A0000000000000AFE
+t1286454602
+s2814
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/open-dropdown-bg-top.png
+c000000004CADBDCD0000000000000BDF
+t1286454733
+s3039
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/popup-bigger-item-bg-hover.png
+c000000004C9B16640000000000000103
+t1285232228
+s259
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/popup-bigger-item-bg.png
+c000000004C9B161800000000000002F7
+t1285232152
+s759
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/popupbg-bigger-bottom.png
+c000000004CAEDE1D0000000000000C19
+t1286528541
+s3097
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/popupbg-bigger-inner.png
+c000000004CADBD4A0000000000000AFE
+t1286454602
+s2814
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Images/popupbg-bigger-top.png
+c000000004CADBDCD0000000000000BDF
+t1286454733
+s3039
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/MainWindow.xib
+c000000004D1089360000000000003EA4
+t1292929334
+s16036
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphoneos/CustomDropDownList.build/Objects-normal/armv7/CustomDropDownList.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphoneos/CustomDropDownList.build/Objects-normal/armv7/CustomDropDownListAppDelegate.o
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphoneos/CustomDropDownList.build/Objects-normal/armv7/Settings.o
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/CustomDropDownList.build/Debug-iphoneos/CustomDropDownList.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app.dSYM
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/CustomDropDownList
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/Info.plist
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/MainWindow.nib
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/PkgInfo
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/ResourceRules.plist
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/but-bg-active.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/but-bg-no-active.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/but-bigger-bg-no-active.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/but-bigger-bg.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/dropdown-item-bg-hover.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/dropdown-item-bg.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/icon.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/icon1.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/open-dropdown-bg-bottom.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/open-dropdown-bg-inner.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/open-dropdown-bg-top.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/popup-bigger-item-bg-hover.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/popup-bigger-item-bg.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/popupbg-bigger-bottom.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/popupbg-bigger-inner.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/popupbg-bigger-top.png
+t2
+s0
+
+N/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/main.m
+c000000004D1089360000000000000177
+t1292929334
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-eamoggnifohqvwbckybrecnejgpc/CustomDropDownList_Prefix.pch.gch
+t2
+s0
+
+NCustomDropDownList-Info.plist
+c000000004D10893600000000000004D6
+t1292929334
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314623217#314623217#0(147"[BEROR]Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.CustomDropDownList' could not be found1(4@139"Code Sign error: a valid provisioning profile matching the application's Identifier 'com.yourcompany.CustomDropDownList' could not be found314623217#18446744073709551615#0#0(1@0"0(0#1#0"9007637348679712#0"0#
+
+CCompileC build/CustomDropDownList.build/Debug-iphoneos/CustomDropDownList.build/Objects-normal/armv7/CustomDropDownListAppDelegate.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/CustomDropDownListAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CustomDropDownList.build/Debug-iphoneos/CustomDropDownList.build/Objects-normal/armv7/Settings.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/Classes/Settings.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CustomDropDownList.build/Debug-iphoneos/CustomDropDownList.build/Objects-normal/armv7/main.o "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/MainWindow.xib"
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/but-bg-active.png" Images/but-bg-active.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/but-bg-no-active.png" Images/but-bg-no-active.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/but-bigger-bg-no-active.png" Images/but-bigger-bg-no-active.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/but-bigger-bg.png" Images/but-bigger-bg.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/dropdown-item-bg-hover.png" Images/dropdown-item-bg-hover.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/dropdown-item-bg.png" Images/dropdown-item-bg.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/icon.png" Images/icon.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/icon1.png" Images/icon1.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/open-dropdown-bg-bottom.png" Images/open-dropdown-bg-bottom.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/open-dropdown-bg-inner.png" Images/open-dropdown-bg-inner.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/open-dropdown-bg-top.png" Images/open-dropdown-bg-top.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/popup-bigger-item-bg-hover.png" Images/popup-bigger-item-bg-hover.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/popup-bigger-item-bg.png" Images/popup-bigger-item-bg.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/popupbg-bigger-bottom.png" Images/popupbg-bigger-bottom.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/popupbg-bigger-inner.png" Images/popupbg-bigger-inner.png
+r0
+
+CCopyPNGFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/popupbg-bigger-top.png" Images/popupbg-bigger-top.png
+r0
+
+CCpResource build/Debug-iphoneos/CustomDropDownList.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app.dSYM" "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/CustomDropDownList"
+r0
+
+CLd "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/CustomDropDownList" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app/Info.plist" CustomDropDownList-Info.plist
+r0
+
+CProcessPCH /var/folders/E2/E2CoWFEZH4m6l29jqeZVA++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CustomDropDownList_Prefix-eamoggnifohqvwbckybrecnejgpc/CustomDropDownList_Prefix.pch.gch CustomDropDownList_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/nickmarchenko/Documents/IPhone Projects/IPad App/CustomDropDownList/build/Debug-iphoneos/CustomDropDownList.app"
+r0
+
